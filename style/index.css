@@ -25,3 +25,8 @@ body{
     margin: 20px;
     height: 150px;
 }
+
+.footer{
+    border-top: 2px solid black;
+    padding: 6px;
+}
