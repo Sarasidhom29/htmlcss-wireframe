@@ -5,17 +5,19 @@
 }
 
 body{
+    width: 100%;
     max-width: 512px;
     margin: 0 auto;
 }
 
-header{
+.header{
+    border-bottom: 2px solid black;
+    text-align: center;
+    padding: 8px;
 
 }
 
-h1{
-    
-}
+
 
 .articolo{
 
